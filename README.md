@@ -52,7 +52,7 @@ Ecommerce-Sales-Dashboard/
 ## Insights Summary
 - Sales show clear monthly patterns, indicating seasonality.
 - A small number of products contribute a large share of total revenue.
-- Sales performance varies significantly across countries.
+- Sales performance varies significantly across countries with major sales made in the United Kingdom.
 
 ## Author
 Isaiah Okech
